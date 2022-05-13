@@ -1,0 +1,7 @@
+colorama==0.4.4
+distlib==0.3.4
+filelock==3.4.2
+platformdirs==2.4.1
+PLTable==1.0.2
+six==1.16.0
+virtualenv==20.13.0
